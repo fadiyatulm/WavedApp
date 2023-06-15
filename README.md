@@ -52,7 +52,8 @@ DB_NAME = "your database name"
 
 ### Test the Endpoint in Postman
 1. Enter the URL with ```https://waved-app.et.r.appspot.com/dictionary``` and select ```GET``` as a method.
-2. 
+2. You will get this as a result.
+![Result](https://github.com/fadiyatulm/WavedApp/blob/main/pic/Screenshot%202023-06-15%20151818.png)
 
 
 
