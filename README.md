@@ -19,7 +19,7 @@ C23-PS318’s Capstone repository
 ## Our Project
 WavEd is an application for learning Bahasa Isyarat Indonesia or BISINDO (Indonesian Sign Language). WavEd has a gamification feature. User will
 demonstrate the BISINDO and then the application will predict whether their movement is correct or not. User can learn the BISINDO’s words through
-the dictionary feature.
+the dictionary.
 
 ## Mobile Development
 
