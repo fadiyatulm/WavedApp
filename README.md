@@ -22,6 +22,30 @@ demonstrate the BISINDO and then the application will predict whether their move
 the dictionary feature.
 
 ## Mobile Development
+### Feature
+1. **Splash Screen.** There is logo screen before into the login page.
+2. **Login.** Allows user to gain access to an application by entering their username and password.
+3. **Register.** Enables user to independently register and gain access to the system.
+4. **Home.** The start page that is displayed when you have logged in on your device.
+5. **Take Image From Camera.** You can take image from camera in preparation for uploading an image to detect the means of the handsign.
+6. **Article About Handsign.** In this application you can read informatin about handsign
+
+### Dependencies
+* Jetpack Compose
+* Lifecycle & Livedata6
+* kotlinx-coroutines
+
+### Getting Started Application
+- Prerequisites
+  - Tools Software
+    a. Android Studio
+    b. JRE (Java Runtime Environment) or JDK (Java  Development Kit)
+
+### Acknowledgements
+* [Clean Architecture Guide](https://developer.android.com/jetpack/guide)
+* [Android Application Fundamental](https://developer.android.com/guide/components/fundamentals)
+* [Android Jetpack Pro](https://developer.android.com/jetpack)
+* [Dependency injection](https://developer.android.com/training/dependency-injection)
 
 ## Machine Learning
 ### Dataset
