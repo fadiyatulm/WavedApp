@@ -39,8 +39,8 @@ the dictionary feature.
 
 ### Getting Started Application
 - Prerequisites
-  - Tools Software
-    a. Android Studio
+  - Tools Software <br>
+    a. Android Studio <br>
     b. JRE (Java Runtime Environment) or JDK (Java  Development Kit)
 
 ### Acknowledgements
