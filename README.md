@@ -21,45 +21,10 @@ WavEd is an application for learning Bahasa Isyarat Indonesia or BISINDO (Indone
 demonstrate the BISINDO and then the application will predict whether their movement is correct or not. User can learn the BISINDO’s words through
 the dictionary.
 
-## Mobile Development
-
-## Machine Learning
-### Dataset
-We are using Bahasa Isyarat Indonesia (BISINDO)<br>
-* [Alphabets](https://www.kaggle.com/datasets/achmadnoer/alfabet-bisindo)<br>
-* [ISLBISINDO1](https://www.kaggle.com/datasets/idhamozi/indonesian-sign-language-bisindo)<br>
-* [Bisindo Dataset](https://www.kaggle.com/datasets/yunitayupratiwi/bisindo-dataset)<br>
-* And our self-made dataset.
-
-### Method
-Pre-trained InceptionV3
-
-### Tools
-* Tensorflow
-* Numpy
-* Pandas
-* Matplotlib
-* Pathlib
-* Os
-* Google Collab
-* Visual Studio Code
-
-### Predict
-In this project we made our own dataset and combined in our local, the dataset
-contains a 26 classes there are A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P,
-Q, R, S, T, U, V, W, X, Y and Z. There are two directory dataset and datatrain.
-
-### Deployment
-We are using Tensorflow Lite to deploy the model on Android
-
-### References
-Load and processing data: https://www.kaggle.com/code/databeru/fruit-and-vegetable-classification
-
-## Cloud Computing
-### Cloud Infrastructure
+## Cloud Infrastructure
 ![CloudInfrastructure](https://github.com/fadiyatulm/WavedApp/blob/main/pic/infrastructure.png)
 
-### Steps to Deploy in Google Cloud
+## Steps to Deploy in Google Cloud
 1. Create Cloud Storage Bucket, make sure that you name it uniquely and the object can be viewed publicly.
 2. Create Cloud SQL instance and choose MySQL 8.0 as a Database Engine. Then import waved.sql into it.
 3. Open Navigation menu and choose App Engine.
@@ -82,7 +47,7 @@ DB_NAME = "your database name"
 9. Make an ```app.yaml``` file and enter ```nodejs16``` as a runtime.
 10. Then deploy it by entering commands ```gcloud app deploy``` in terminal.
 
-### Test the Endpoint in Postman
+## Test the Endpoint in Postman
 1. Enter the URL with ```https://waved-app.et.r.appspot.com/dictionary``` and select ```GET``` as a method.
 2. You will get this as a result.
 ![Result](https://github.com/fadiyatulm/WavedApp/blob/main/pic/Screenshot%202023-06-15%20151818.png)
