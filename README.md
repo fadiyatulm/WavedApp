@@ -21,6 +21,11 @@ WavEd is an application for learning Bahasa Isyarat Indonesia or BISINDO (Indone
 demonstrate the BISINDO and then the application will predict whether their movement is correct or not. User can learn the BISINDO’s words through
 the dictionary feature.
 
+## Our Repository
+* [Machine Learning](https://github.com/fadiyatulm/WavedApp/tree/ML)
+* [Cloud Computing](https://github.com/fadiyatulm/WavedApp/tree/CC)
+* Mobile Development
+
 ## Mobile Development
 ### Feature
 1. **Splash Screen.** There is logo screen before into the login page.
