@@ -34,6 +34,8 @@ the dictionary feature.
 * Jetpack Compose
 * Lifecycle & Livedata6
 * kotlinx-coroutines
+* Real-time
+* Firebase
 
 ### Getting Started Application
 - Prerequisites
