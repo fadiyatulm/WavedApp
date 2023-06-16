@@ -24,7 +24,7 @@ the dictionary feature.
 ## Our Repository
 * [Machine Learning](https://github.com/fadiyatulm/WavedApp/tree/ML)
 * [Cloud Computing](https://github.com/fadiyatulm/WavedApp/tree/CC)
-* Mobile Development
+* [Mobile Development](https://github.com/Adam3131/WaveEd.git)
 
 ## Mobile Development
 ### Feature
